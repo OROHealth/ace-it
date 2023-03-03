@@ -12,7 +12,7 @@ You do ***NOT*** need to create the perfect model. It is for you to decide what 
 ## Basic requirements:
 In the submitted file you should add,
 1- Documentation of experiment including hardware, software, CPU/GPU runtime information as well as a summary of the approach, limitations, and possible improvements that you would do if you had more time and computational power.  
-2- Code snippet that we can run and replicate your results, and use to predict the classes of test images.  
+2- Code snippet that we can run and replicate your results, and a final model file that we can use to predict the classes of test images.  
 3- Classification Report 
 
 
